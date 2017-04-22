@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MayTinhMS</string>
+    <string name="button">Button</string>
+    <string name="plus">/</string>
+    <string name="btn3">3</string>
+    <string name="c">C</string>
+    <string name="btn6">6</string>
+    <string name="btnTru">-</string>
+    <string name="btn9">9</string>
+    <string name="btnNhan">x</string>
+    <string name="resulll">=</string>
+</resources>
